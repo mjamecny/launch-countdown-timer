@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/launch-countdown-timer-with-react-SG8OGGmzac)
 - Live Site URL: [Netlify](https://fm-launch-countdown-timer.netlify.app)
 
 ## My process
