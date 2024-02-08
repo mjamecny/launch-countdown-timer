@@ -135,7 +135,7 @@ export default function App() {
     seconds: 0,
   })
 
-  const futureDate = new Date(2024, 0, 20)
+  const futureDate = new Date(2025, 1, 20)
 
   useEffect(() => {
     function updateCountdown() {
